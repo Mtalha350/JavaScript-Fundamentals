@@ -4,7 +4,7 @@
 2. [Linking a JavaScript File](./Linking%20a%20javascript%20file.md)
 3. [Values and Variables](./Values%20and%20Variables.md)
 4. [Data Types](./Data%20Types.md)
-5. [let, const and var](./let-const-var.md)
+5. [let, const and var](./let,%20const%20&%20var.md)
 6. [Basic Operators](./Basic%20Operators.md)
 7. [Operator Precedence](./Operator%20Precedence.md)
 8. [Coding Challenge #1](./Coding%20Challenge%20%231.md)
