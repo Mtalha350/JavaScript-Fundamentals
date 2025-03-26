@@ -1,4 +1,4 @@
-# Summary: Equality Operators and Boolean Logic in JavaScript
+# Equality Operators and Boolean Logic in JavaScript
 
 ## Equality Operators
 

@@ -1,4 +1,4 @@
-# Summary of Lecture on JavaScript Data Types
+# JavaScript Data Types
 
 ## Values and Variables
 

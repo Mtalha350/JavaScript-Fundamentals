@@ -1,4 +1,4 @@
-# Summary: Logical Operators in JavaScript
+# Logical Operators in JavaScript
 
 ## Introduction
 

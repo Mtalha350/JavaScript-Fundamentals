@@ -1,4 +1,4 @@
-# Summary: JavaScript Conditional (Ternary) Operator
+# JavaScript Conditional (Ternary) Operator
 
 ## Introduction
 

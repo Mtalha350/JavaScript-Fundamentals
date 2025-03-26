@@ -1,4 +1,4 @@
-# Summary of JavaScript Introduction
+# JavaScript Introduction
 
 ## What is JavaScript?
 
