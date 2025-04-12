@@ -1,4 +1,3 @@
-````md
 # Summary: Introduction to Arrays in JavaScript
 
 ### What are Arrays?
@@ -13,7 +12,6 @@ Arrays can be created in two ways:
    ```javascript
    const friends = ["Michael", "Steven", "Peter"];
    ```
-````
 
 2. **Using the `new Array()` constructor**:
    ```javascript
@@ -91,6 +89,3 @@ const ages = years.map((year) => calcAge(year)); // Using the map method to appl
 
 Arrays are a powerful data structure in JavaScript that allow you to store and manipulate multiple related values. They can hold values of different types and can be accessed or modified using index notation. Arrays are essential for efficiently working with groups of data.
 
-```
-
-```
