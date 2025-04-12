@@ -1,4 +1,4 @@
-# 📘 JavaScript Functions Summary
+# 📘 JavaScript Functions 
 
 ## 🔹 Function Declarations
 
