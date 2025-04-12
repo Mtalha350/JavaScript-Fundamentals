@@ -15,13 +15,12 @@ In this lesson, we explore different types of functions in JavaScript, starting 
 
 - Functions in expressions are stored in variables and can be called like regular functions.
 - Example:
-  ```javascript
+  javascript
   const calcAge = function (birthYear) {
     return 2037 - birthYear;
   };
-  ```
+  
 
-````
 
 ### Function Parameters
 
@@ -74,4 +73,3 @@ In this lesson, we explore different types of functions in JavaScript, starting 
 ### Conclusion
 
 Understanding the structure and usage of functions is fundamental in JavaScript. By mastering functions, you'll be able to write more reusable and maintainable code.
-````
