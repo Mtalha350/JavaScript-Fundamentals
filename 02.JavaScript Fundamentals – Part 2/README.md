@@ -1,0 +1,17 @@
+## Table of Contents
+
+1. [Activating Strict Mode](./01.Activating%20Strict%20Mode.md)
+2. [Functions](./02.Functions.md)
+3. [Function Declarations vs. Expressions](./03.Function%20Declarations%20vs.%20Expressions.md)
+4. [Arrow Functions](./04.Arrow%20Functions.md)
+5. [Functions Calling Other Functions](./05.Functions%20Calling%20Other%20Functions.md)
+6. [Reviewing Functions](./06.Reviewing%20Functions.md)
+7. [Introduction to Arrays](./07.Introduction%20to%20Arrays.md)
+8. [Basic Array Operations (Methods)](<./08.Basic%20Array%20Operations%20(Methods).md>)
+9. [Introduction to Objects](./09.Introduction%20to%20Objects.md)
+10. [Dot vs. Bracket Notation](./10.Dot%20vs.%20Bracket%20Notation.md)
+11. [Object Methods](./11.Object%20Methods.md)
+12. [Iteration: The for Loop](./12.Iteration..%20The%20for%20Loop.md)
+13. [Looping Arrays, Breaking and Continuing](./13.Looping%20Arrays,%20Breaking%20and%20Continuing.md)
+14. [Looping Backwards and Loops in Loops](./14.Looping%20Backwards%20and%20Loops%20in%20Loops.md)
+15. [The while Loop](./15.The%20while%20Loop.md)
